@@ -1,0 +1,21 @@
+{
+  "name": "Salon Éclat — Kolwezi",
+  "short_name": "Salon Éclat",
+  "description": "Salon de coiffure haut de gamme à Kolwezi - Réservation WhatsApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFCF8",
+  "theme_color": "#101010",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
